@@ -1,4 +1,4 @@
-# Predect-Salary-depend-on-position
+# Predict-Salary-depend-on-position
 Predect Salary depend on position ;train linear,polynomial regretion model and suport vector regression ,decision tree regression and evaluate evry model to choose the good model and use it
 <html>
 <body>
